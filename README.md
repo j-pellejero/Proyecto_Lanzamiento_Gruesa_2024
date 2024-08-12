@@ -1,3 +1,3 @@
-##Git & GitHub
+##  & GitHub
 
-###Encuentros para introducir 
+### Encuentros para introducir 
