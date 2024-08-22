@@ -1,3 +1,3 @@
 ##  Git & GitHub
 
-### Encuentros para introducir 
+### Encuentros para introducir el control de versiones utilizando GIT
