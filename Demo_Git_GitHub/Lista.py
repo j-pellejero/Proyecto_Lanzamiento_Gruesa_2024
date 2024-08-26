@@ -1,6 +1,5 @@
 #Encuentro 3 de Git a GitHub
 
 #Crear una lista para ver los cambios entre usuarios
-
-lista_cambios = ["sorgo", "soja", "maiz", "cebada", "trigo"]
+lista_cambios = ["sorgo", "soja", "maiz", "cebada", "trigo","Algodon"]
 print (lista_cambios)
